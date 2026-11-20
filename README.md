@@ -34,6 +34,14 @@ The notebooks are designed to be run in this order:
 - **Environment:** Jupyter Notebook
 
 ## Key Findings
+
+- **Launch success over time:** Landing success improved sharply from 2013 onwards. Early launches (2010-2013) had a 0% landing success rate, and by 2018-2020 the success rate had levelled off at a very high level.
+- **Launch sites:** KSCLC-39A had the highest concentration of successful landings. CCAFS SLC-40 was the busiest site and shows a mix of early failures and later successes.
+- **Payload and orbit:** Payload mass and target orbit both influence landing outcomes. Lighter payloads generally had higher success rates, and heavier payloads were highly successful in Very Low Earth Orbit(VLEO), which needs less fuel and leaves more for the booster's return.
+- **Model performance:** Logistic Regression, SVM, Decision Tree and KNN were all tuned with GridSearchCV. The best models reached a test accuracy of about **83.3%** with Logistic Regression, SVM and KNN outperforming the Decision Tree. I used KNN for the confusion matrix.
+- **Errors:** The main error type was false positives (predicting a successful landing that actually failed), which matters in practice because overestimating success can mean losing expensive hardware.
+- **Limitations:** This is a relatively small dataset, so the test accuracy is only a rough estimate.
+  
 ## Interactive Dashboard
 
 The [dashboard](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/spacex-dash-app%20(1).py) lets you explore launch results interactively. To run it locally:
