@@ -15,13 +15,13 @@ The notebooks are designed to be run in this order:
 | **Step** | **File** | **What it does** |
 |:--------:|:--------:|:----------------:|
 | 1 | [Data collection api](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/jupyter-labs-spacex-data-collection-api%20(5).ipynb) | Collects launch data from the SpaceX API |
-| 2 | [jupytper labs webscraping](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/jupyter-labs-webscraping%20(2).ipynb) | Collects additional launch records by web scraping |
+| 2 | [Data Collection with webscraping](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/jupyter-labs-webscraping%20(2).ipynb) | Collects additional launch records by web scraping |
 | 3 | [Data wrangling](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/labs-jupyter-spacex-Data%20wrangling%20(2).ipynb) |Cleans the data, handles missing values and creates the landing outcome label |
-| 4 | [jupyter-labs-eda-sql-coursera_sqlite (1).ipynb](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/jupyter-labs-eda-sql-coursera_sqllite%20(1).ipynb) | Exploratory data analysis using SQL queries (SQLite) |
-| 5 | [edadataviz (2).ipynb](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/edadataviz%20(2).ipynb) | Exploratory data analysis and visualisations of the relationships between variables and landing success |
-| 6 | [lab_jupyter_launch_site_location(5).ipynb](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/lab_jupyter_launch_site_location%20(5).ipynb) | Interactive map of launch sites and their surroundings |
-| 7 | [spacex-dash-app (1).py](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/spacex-dash-app%20(1).py) | Interative dashboard of launch results |
-| 8 | [SpaceX_Machine Learning Prediction_Part_5 (4).ipynb](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5%20(4).ipynb) | Trains and compares classification models to predict landing success |
+| 4 | [EDA with SQL](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/jupyter-labs-eda-sql-coursera_sqllite%20(1).ipynb) | Exploratory data analysis using SQL queries (SQLite) |
+| 5 | [EDA with visualisation](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/edadataviz%20(2).ipynb) | Exploratory data analysis and visualisations of the relationships between variables and landing success |
+| 6 | [Interactive visual analysis with Folium lab](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/lab_jupyter_launch_site_location%20(5).ipynb) | Interactive map of launch sites and their surroundings |
+| 7 | [Interactive Dashboard with Plotly Dash](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/spacex-dash-app%20(1).py) | Interative dashboard of launch results |
+| 8 | [Machine Learning Prediction](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5%20(4).ipynb) | Trains and compares classification models to predict landing success |
 
 ## Tools and Technologies
 
