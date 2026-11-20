@@ -13,7 +13,7 @@ SpaceX advertises Falcon 9 launches at a much lower cost than its competitors, l
 The notebooks are designed to be run in this order:
 
 | **Step** | **File** | **What it does** |
-----------------------------------------
+|:--------:|:--------:|:----------------:|
 | 1 | [Data collection api](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/jupyter-labs-spacex-data-collection-api%20(5).ipynb) | Collects launch data from the SpaceX API |
 | 2 | [jupytper labs webscraping](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/jupyter-labs-webscraping%20(2).ipynb) | Collects additional launch records by web scraping |
 | 3 | [Data wrangling](https://github.com/yolandawalingo/IBM_Data_Science_Final_Project/blob/main/labs-jupyter-spacex-Data%20wrangling%20(2).ipynb) |Cleans the data, handles missing values and creates the landing outcome label |
